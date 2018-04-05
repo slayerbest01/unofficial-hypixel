@@ -1,16 +1,15 @@
 # Discord Staff List
-
-## Welcome to the Discord Staff List section of the website. Here you will learn the discord staff and their ranks.
+###### Welcome to the Discord Staff List section of the website. Here you will learn the discord staff and their ranks.
 
 #### **Ranks:**
-* **Owner**
-* **Developer**
-* **Senior Administrator**
-* **Administrator**
-* **Senior Moderator**
-* **Moderator**
-* **Junior Moderator**
-* **Helper**
+* **Owner** - *1st in command*
+* **Developer** - *2nd in command*
+* **Senior Administrator** - *2nd in command*
+* **Administrator** - *Has command over lower staff*
+* **Senior Moderator** - *Has command over lower staff*
+* **Moderator** - *Has no command*
+* **Junior Moderator** - *Has no command*
+* **Helper** - *Has no command*
 
 #### **Staff List:**
 * ***Borkify*** - *Owner*
@@ -21,4 +20,4 @@
 * ***WIFI_WONDER*** - *Helper*
 * ***xX_LoveWolf_Xx*** - *Helper*
 * ***VBH*** - *Helper*
-* ****** - **
+* ***ClassicDorito*** - *Helper*
